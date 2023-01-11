@@ -1,4 +1,4 @@
-This program will have four pipeline registers (IF, ID, EX, MEM, and WB), which you will set up as structures
+This program will have four pipeline registers (IF, ID, EX, MEM, and WB), which will set up as structures
 with a READ and a WRITE version for each.  Each pipeline register's structure will be different and will be 
 based on the information being passed from the previous stage (just like in the real world)
 
