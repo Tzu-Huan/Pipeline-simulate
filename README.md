@@ -1,4 +1,4 @@
-##Pipeline-simulate
+# Pipeline-simulate
 
 This program will have four pipeline registers (IF, ID, EX, MEM, and WB), which will set up as structures
 with a READ and a WRITE version for each.  Each pipeline register's structure will be different and will be 
